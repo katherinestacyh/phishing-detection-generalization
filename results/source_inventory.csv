@@ -1,0 +1,7 @@
+Source,Emails,Columns,Missing values,Label 0,Label 1
+CEAS_08,39154,"sender, receiver, date, subject, body, label, urls",490,17312,21842
+Enron,29767,"subject, body, label",198,15791,13976
+Ling,2859,"subject, body, label",62,2401,458
+Nazario,1565,"sender, receiver, date, subject, body, urls, label",101,0,1565
+Nigerian_Fraud,3332,"sender, receiver, date, subject, body, urls, label",2176,0,3332
+SpamAssasin,5809,"sender, receiver, date, subject, body, label, urls",227,4091,1718
