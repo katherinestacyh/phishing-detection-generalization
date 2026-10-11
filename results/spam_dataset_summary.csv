@@ -1,0 +1,5 @@
+source_id,total_emails,legitimate,spam
+CEAS_08,39154,17312,21842
+Enron,29767,15791,13976
+Ling,2859,2401,458
+SpamAssasin,5809,4091,1718

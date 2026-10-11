@@ -1,0 +1,8 @@
+metric,count
+total_emails,77589
+unique_normalized_emails,77047
+duplicate_groups,433
+records_in_duplicate_groups,975
+extra_duplicate_copies,542
+cross_source_duplicate_groups,2
+conflicting_label_groups,0
