@@ -53,3 +53,4 @@ The project will include:
 IS 665 – Cybersecurity Analytics  
 California State University, Long Beach  
 Fall 2026
+Thank you!
