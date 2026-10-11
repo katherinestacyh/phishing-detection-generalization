@@ -1,0 +1,4 @@
+split,total,legitimate,spam
+Training,54312,27716,26596
+Validation,11638,5939,5699
+Testing,11639,5940,5699
