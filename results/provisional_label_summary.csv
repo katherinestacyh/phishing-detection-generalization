@@ -1,0 +1,7 @@
+source_id,fraud_candidate,general_spam,legitimate_candidate,phishing_candidate
+CEAS_08,0,21842,17312,0
+Enron,0,13976,15791,0
+Ling,0,458,2401,0
+Nazario,0,0,0,1565
+Nigerian_Fraud,3332,0,0,0
+SpamAssasin,0,1718,4091,0

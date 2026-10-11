@@ -1,0 +1,13 @@
+#This is a data dictionary for our planned standardized dataset
+
+
+field,data_type,meaning,role_in_analysis,availability
+source_id,Categorical,Original dataset source,Grouping and source-disjoint evaluation,Added during data preparation
+original_label,Integer,Original binary label from the source,Label auditing and baseline comparison,All six sources as label
+project_label,Categorical,Phishing or legitimate or spam or uncertain classification,Final modeling target or exclusion,Not assigned yet
+subject,Text,Email subject line,TF-IDF text feature,All six sources
+body,Text,Email message body,TF-IDF text feature,All six sources
+sender,Text,Original sender information,Metadata and error analysis,Four sources only
+receiver,Text,Original recipient information,Metadata and privacy review,Four sources only
+date,Text or datetime,Email timestamp when available,Temporal analysis and data-quality review,Four sources only
+urls,Integer,Original binary URL indicator,EDA and potential feature analysis,Four sources only
