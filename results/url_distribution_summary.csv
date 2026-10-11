@@ -1,5 +1,3 @@
 source,total_emails,url_present,url_absent,url_present_percent
 CEAS_08,39154,26232,12922,67.0
-Nazario,1565,1423,142,90.93
-Nigerian_Fraud,3332,1149,2183,34.48
 SpamAssasin,5809,5002,807,86.11
