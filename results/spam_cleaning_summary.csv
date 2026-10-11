@@ -1,0 +1,9 @@
+metric,count
+original_records,77589
+missing_or_empty_subjects,304
+missing_or_empty_bodies,2
+records_excluded_no_text,0
+cleaned_records,77589
+legitimate_records,39595
+spam_records,37994
+unique_duplicate_groups,77047

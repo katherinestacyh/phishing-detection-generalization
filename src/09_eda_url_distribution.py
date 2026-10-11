@@ -5,8 +5,6 @@ import matplotlib.pyplot as plt
 
 sources = [
     "CEAS_08",
-    "Nazario",
-    "Nigerian_Fraud",
     "SpamAssasin"
 ]
 

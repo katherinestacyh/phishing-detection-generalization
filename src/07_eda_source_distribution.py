@@ -7,8 +7,6 @@ sources = [
     "CEAS_08",
     "Enron",
     "Ling",
-    "Nazario",
-    "Nigerian_Fraud",
     "SpamAssasin"
 ]
 
