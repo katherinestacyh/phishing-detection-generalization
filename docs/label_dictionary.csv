@@ -1,11 +1,11 @@
 source_id,original_label,verified_meaning,project_label,notes
-CEAS_08,0,Pending,Pending,Review original documentation
-CEAS_08,1,Pending,Pending,Review original documentation
-Enron,0,Pending,Pending,Review original documentation
-Enron,1,Pending,Pending,Review original documentation
-Ling,0,Pending,Pending,Review original documentation
-Ling,1,Pending,Pending,Review original documentation
-Nazario,1,Pending,Pending,Review original documentation
-Nigerian_Fraud,1,Pending,Pending,Review original documentation
-SpamAssasin,0,Pending,Pending,Review original documentation
-SpamAssasin,1,Pending,Pending,Review original documentation
+CEAS_08,0,Legitimate email,Pending,Original source category
+CEAS_08,1,General spam,Pending,Not necessarily phishing
+Enron,0,Legitimate email,Pending,Original source category
+Enron,1,General spam,Pending,Not necessarily phishing
+Ling,0,Legitimate email,Pending,Original source category
+Ling,1,General spam,Pending,Not necessarily phishing
+Nazario,1,Phishing email,Pending,Phishing corpus - individual labels not audited
+Nigerian_Fraud,1,Fraud or scam email,Pending,Not all fraud is necessarily phishing
+SpamAssasin,0,Legitimate email,Pending,Original source category
+SpamAssasin,1,General spam,Pending,Not necessarily phishing
