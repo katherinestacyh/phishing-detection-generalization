@@ -49,8 +49,6 @@ for file in csv_files:
 summary = []
 
 for file in csv_files:
-    if file.name == "phishing_email.csv":
-        continue
 
     df = pd.read_csv(file)
 
