@@ -7,7 +7,15 @@ project_folder = Path(__file__).resolve().parent.parent
 data_folder = project_folder / "data"
 
 # Find all CSV files
-csv_files = sorted(data_folder.glob("*.csv"))
+csv_files = [
+    data_folder / "CEAS_08.csv",
+    data_folder / "Enron.csv",
+    data_folder / "Ling.csv",
+    data_folder / "Nazario.csv",
+    data_folder / "Nigerian_Fraud.csv",
+    data_folder / "SpamAssasin.csv",
+    data_folder / "phishing_email.csv",
+]
 
 print("Total CSV files:", len(csv_files))
 
