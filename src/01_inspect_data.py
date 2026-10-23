@@ -14,7 +14,6 @@ csv_files = [
     data_folder / "Nazario.csv",
     data_folder / "Nigerian_Fraud.csv",
     data_folder / "SpamAssasin.csv",
-    data_folder / "phishing_email.csv",
 ]
 
 print("Total CSV files:", len(csv_files))
@@ -50,8 +49,6 @@ for file in csv_files:
 summary = []
 
 for file in csv_files:
-    if file.name == "phishing_email.csv":
-        continue
 
     df = pd.read_csv(file)
 
