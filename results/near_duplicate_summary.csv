@@ -1,0 +1,11 @@
+metric,count
+total_emails,77589
+original_exact_duplicate_groups,77047
+new_combined_groups,67046
+confirmed_near_duplicate_links,786323
+groups_with_multiple_emails,3197
+groups_with_label_conflicts,1
+cross_source_groups,325
+short_representatives_skipped,1197
+candidates_checked,1143333
+searches_truncated_by_safety_limit,2960
