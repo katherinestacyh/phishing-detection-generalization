@@ -1,0 +1,13 @@
+metric,count
+total_records,77589
+total_combined_groups,67046
+groups_with_multiple_records,3197
+groups_with_label_conflicts,1
+groups_with_100_or_more_records,6
+cross_source_groups,325
+groups_with_varied_subjects_10plus_records,45
+groups_selected_for_manual_review,64
+random_small_groups_selected,25
+largest_group_records,1018
+searches_truncated_by_safety_limit,2960
+short_representatives_skipped,1197
