@@ -1,0 +1,95 @@
+leakage_group_id,emails,labels,sources,subjects,refined_parts,conflicting_labels,very_large,varied_subjects,split_by_stricter_rules,exclude_from_modeling,review_reason
+ND_000002,962,1,1,1,2,False,True,False,True,True,very_large; split_by_stricter_rules
+ND_000010,17,1,1,17,16,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_000014,14,1,1,8,4,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_000082,12,1,1,10,11,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_000102,10,1,1,6,6,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_000193,15,1,1,10,7,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_000350,35,1,1,22,28,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_000605,14,1,1,14,14,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_000748,15,1,1,1,15,False,False,False,True,True,split_by_stricter_rules
+ND_000804,10,1,1,8,8,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_000902,11,1,1,3,9,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_001182,12,1,1,7,7,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_001600,10,1,1,6,2,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_002658,30,1,1,21,1,False,False,True,False,True,varied_subjects
+ND_003094,10,1,1,9,9,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_003359,208,1,1,17,13,False,True,True,True,True,very_large; varied_subjects; split_by_stricter_rules
+ND_004046,11,1,1,11,11,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_004718,123,1,1,1,2,False,True,False,True,True,very_large; split_by_stricter_rules
+ND_004790,2,2,1,2,2,True,False,False,False,True,conflicting_labels
+ND_006615,28,1,1,26,1,False,False,True,False,True,varied_subjects
+ND_006751,11,1,1,11,11,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_011697,981,1,1,1,2,False,True,False,True,True,very_large; split_by_stricter_rules
+ND_015767,13,1,1,1,2,False,False,False,True,True,split_by_stricter_rules
+ND_015870,11,1,1,1,11,False,False,False,True,True,split_by_stricter_rules
+ND_015899,11,1,1,1,11,False,False,False,True,True,split_by_stricter_rules
+ND_016136,15,1,1,1,2,False,False,False,True,True,split_by_stricter_rules
+ND_016221,12,1,1,1,12,False,False,False,True,True,split_by_stricter_rules
+ND_016222,11,1,1,1,11,False,False,False,True,True,split_by_stricter_rules
+ND_017360,16,1,1,1,16,False,False,False,True,True,split_by_stricter_rules
+ND_018188,17,1,1,1,17,False,False,False,True,True,split_by_stricter_rules
+ND_018935,18,1,1,1,18,False,False,False,True,True,split_by_stricter_rules
+ND_021958,987,1,1,1,2,False,True,False,True,True,very_large; split_by_stricter_rules
+ND_034400,1018,1,1,1,887,False,True,False,True,True,very_large; split_by_stricter_rules
+ND_034455,15,1,1,1,7,False,False,False,True,True,split_by_stricter_rules
+ND_034459,12,1,1,1,7,False,False,False,True,True,split_by_stricter_rules
+ND_034473,19,1,1,1,9,False,False,False,True,True,split_by_stricter_rules
+ND_034474,18,1,1,1,5,False,False,False,True,True,split_by_stricter_rules
+ND_034490,21,1,1,1,21,False,False,False,True,True,split_by_stricter_rules
+ND_034500,16,1,1,1,8,False,False,False,True,True,split_by_stricter_rules
+ND_034521,21,1,1,1,14,False,False,False,True,True,split_by_stricter_rules
+ND_034534,26,1,1,1,5,False,False,False,True,True,split_by_stricter_rules
+ND_034538,11,1,1,1,4,False,False,False,True,True,split_by_stricter_rules
+ND_034539,16,1,1,1,8,False,False,False,True,True,split_by_stricter_rules
+ND_034567,13,1,1,1,8,False,False,False,True,True,split_by_stricter_rules
+ND_034580,19,1,1,1,7,False,False,False,True,True,split_by_stricter_rules
+ND_034587,14,1,1,1,10,False,False,False,True,True,split_by_stricter_rules
+ND_034647,18,1,1,1,10,False,False,False,True,True,split_by_stricter_rules
+ND_034661,16,1,1,1,8,False,False,False,True,True,split_by_stricter_rules
+ND_034695,16,1,1,1,10,False,False,False,True,True,split_by_stricter_rules
+ND_034720,23,1,1,1,11,False,False,False,True,True,split_by_stricter_rules
+ND_034777,20,1,1,1,5,False,False,False,True,True,split_by_stricter_rules
+ND_034833,17,1,1,1,12,False,False,False,True,True,split_by_stricter_rules
+ND_034963,21,1,1,1,11,False,False,False,True,True,split_by_stricter_rules
+ND_034968,14,1,1,1,7,False,False,False,True,True,split_by_stricter_rules
+ND_037229,39,1,1,1,39,False,False,False,True,True,split_by_stricter_rules
+ND_037245,17,1,1,1,17,False,False,False,True,True,split_by_stricter_rules
+ND_037561,11,1,1,1,11,False,False,False,True,True,split_by_stricter_rules
+ND_040019,14,1,1,2,7,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_042403,10,1,1,7,2,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_042405,22,1,1,10,4,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_042419,39,1,1,32,26,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_042511,23,1,1,3,14,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_042642,16,1,1,13,8,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_042797,17,1,1,8,10,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_042874,12,1,1,12,9,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_042892,32,1,1,5,10,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_043119,19,1,1,19,12,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_043274,12,1,1,2,8,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_043380,22,1,1,3,20,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_043388,14,1,1,7,13,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_043532,12,1,1,2,9,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_044669,21,1,1,1,8,False,False,False,True,True,split_by_stricter_rules
+ND_046530,11,1,1,1,4,False,False,False,True,True,split_by_stricter_rules
+ND_047862,62,1,1,1,59,False,False,False,True,True,split_by_stricter_rules
+ND_047867,62,1,1,2,11,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_047897,68,1,1,1,12,False,False,False,True,True,split_by_stricter_rules
+ND_047900,16,1,1,1,16,False,False,False,True,True,split_by_stricter_rules
+ND_047905,46,1,1,5,46,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_047933,38,1,1,1,38,False,False,False,True,True,split_by_stricter_rules
+ND_047935,19,1,1,19,1,False,False,True,False,True,varied_subjects
+ND_047978,15,1,1,1,4,False,False,False,True,True,split_by_stricter_rules
+ND_047979,13,1,1,1,13,False,False,False,True,True,split_by_stricter_rules
+ND_048276,16,1,2,11,11,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_048397,12,1,2,9,10,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_048423,11,1,2,4,2,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_048604,11,1,1,4,6,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_048761,13,1,1,5,5,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_053238,13,1,1,2,8,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_053517,10,1,1,9,9,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_054114,10,1,1,7,3,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_054526,11,1,1,11,11,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_055677,96,1,1,1,96,False,False,False,True,True,split_by_stricter_rules
+ND_061408,16,1,2,16,5,False,False,True,True,True,varied_subjects; split_by_stricter_rules
+ND_075363,10,1,1,10,10,False,False,True,True,True,varied_subjects; split_by_stricter_rules
