@@ -1,0 +1,6 @@
+metric,count
+original_training_emails,54381
+conflicting_label_groups,1
+ambiguous_emails_excluded,2
+training_emails_remaining,54379
+remaining_conflicting_groups,0
