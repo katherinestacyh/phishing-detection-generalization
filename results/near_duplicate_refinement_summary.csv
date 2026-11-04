@@ -1,0 +1,14 @@
+metric,count
+total_emails,77589
+original_script16_families,67046
+stricter_refined_groups,71697
+saved_pairs_checked,786323
+pairs_kept_by_stricter_thresholds,747659
+pairs_rejected_low_similarity,38663
+pairs_rejected_conflicting_labels,1
+uncertain_families_set_aside,94
+emails_set_aside,5967
+emails_remaining_for_later_splitting,71622
+cross_source_families,325
+script16_truncated_searches_UNRESOLVED,2960
+script16_short_representatives_skipped_UNRESOLVED,1197
