@@ -1,0 +1,9 @@
+source_id,project_label,train,validation,test
+CEAS_08,0,12051,2606,2655
+CEAS_08,1,15547,3660,2635
+Enron,0,11040,2363,2388
+Enron,1,9701,2095,2180
+Ling,0,1684,355,362
+Ling,1,321,73,64
+SpamAssasin,0,2841,615,635
+SpamAssasin,1,1196,289,233

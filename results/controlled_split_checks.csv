@@ -1,0 +1,11 @@
+check,value
+input_emails,77589
+output_emails,77589
+mixed_label_families_training_only,1
+mixed_label_emails_training_only,2
+exact_group_overlap_across_splits,0
+refined_group_overlap_across_splits,0
+broad_leakage_group_overlap_across_splits,0
+chosen_random_seed,47
+candidate_seeds_compared,30
+undetected_near_duplicates_ruled_out,NO - approximate search was incomplete
