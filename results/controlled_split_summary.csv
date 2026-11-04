@@ -1,0 +1,4 @@
+split,target_fraction,actual_fraction,emails,legitimate_0,spam_1,leakage_families,flagged_emails_retained
+train,0.7,0.70089,54381,27616,26765,46933,4271
+validation,0.15,0.15538,12056,5939,6117,10057,1333
+test,0.15,0.14373,11152,6040,5112,10056,363
