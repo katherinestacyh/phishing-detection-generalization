@@ -1,0 +1,16 @@
+setting,value
+random_seed,42
+training_emails,54379
+validation_emails,12056
+tfidf_max_features,30000
+tfidf_min_df,3
+tfidf_ngrams,"(1, 2)"
+tfidf_sublinear_tf,True
+logistic_solver,liblinear
+logistic_max_iter,1000
+svm_C,1.0
+svm_max_iter,5000
+svm_dual,False
+class_weight,None
+sklearn_version,1.9.1
+model_selection,Default thresholds; no tuning yet
