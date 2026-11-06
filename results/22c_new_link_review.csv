@@ -1,0 +1,9 @@
+link_number,source_a,row_a,split_a,source_b,row_b,split_b,old_family_a,old_family_b,jaccard,char_similarity,strict_match,cross_split,cross_source,label_conflict,proposed_action
+1,CEAS_08,36047,train,CEAS_08,36046,validation,ND_034400,ND_034963,0.7925,93.73,False,True,False,False,review_weaker_cross_split_template_match
+2,CEAS_08,36459,train,CEAS_08,35747,train,ND_034490,ND_034400,0.7941,95.5,False,False,False,False,no_split_action
+3,CEAS_08,37095,train,CEAS_08,36639,train,ND_034755,ND_034400,0.7941,95.19,False,False,False,False,no_split_action
+4,CEAS_08,37259,validation,CEAS_08,37255,train,ND_034500,ND_034400,0.785,94.47,False,True,False,False,review_weaker_cross_split_template_match
+5,CEAS_08,37259,validation,CEAS_08,37258,train,ND_034500,ND_034400,0.8155,95.31,False,True,False,False,review_weaker_cross_split_template_match
+6,CEAS_08,38328,train,CEAS_08,37610,train,ND_034400,ND_037428,0.8776,98.58,False,False,False,False,no_split_action
+7,CEAS_08,39088,train,CEAS_08,39086,train,ND_034400,ND_034534,0.8155,95.74,False,False,False,False,no_split_action
+8,Enron,22537,test,SpamAssasin,4357,train,ND_061189,ND_075602,1.0,99.1,True,True,True,False,quarantine_from_reserved_test
