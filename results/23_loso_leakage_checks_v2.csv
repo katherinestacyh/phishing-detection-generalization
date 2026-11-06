@@ -1,0 +1,5 @@
+held_out_source,training_emails,heldout_emails,removed_shared_family_records,source_overlap,detected_family_overlap,tfidf_features
+CEAS_08,32573,33825,0,0,0,30000
+Enron,40815,25199,384,0,0,30000
+Ling,63965,2433,0,0,0,30000
+SpamAssasin,61145,4941,312,0,0,30000
