@@ -1,0 +1,15 @@
+metric,value
+truncated_searches_replayed,2960
+previously_omitted_candidates,1074412
+already_same_family_skipped,913873
+additional_pairs_evaluated,2580554
+new_cross_family_matches,8
+matches_crossing_existing_splits,4
+short_representatives_rechecked,1197
+short_length_filtered_candidates,2420082
+matches_crossing_sources,1
+old_families,67046
+proposed_families,67039
+proposed_families_spanning_splits,2
+remaining_LSH_candidate_generation_limit,MinHash LSH may miss pairs that share no bucket
+short_messages_under_3_words_limit,Cannot confirm word-trigram similarity for fewer than 3 words

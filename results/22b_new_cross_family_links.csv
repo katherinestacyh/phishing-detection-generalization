@@ -1,0 +1,9 @@
+source_a,row_a,source_b,row_b,old_family_a,old_family_b,split_a,split_b,label_conflict,jaccard,char_similarity,method
+CEAS_08,36047,CEAS_08,36046,ND_034400,ND_034963,train,validation,False,0.7925,93.73,previously_truncated_LSH
+CEAS_08,36459,CEAS_08,35747,ND_034490,ND_034400,train,train,False,0.7941,95.5,previously_truncated_LSH
+CEAS_08,37095,CEAS_08,36639,ND_034755,ND_034400,train,train,False,0.7941,95.19,previously_truncated_LSH
+CEAS_08,37259,CEAS_08,37255,ND_034500,ND_034400,validation,train,False,0.785,94.47,previously_truncated_LSH
+CEAS_08,37259,CEAS_08,37258,ND_034500,ND_034400,validation,train,False,0.8155,95.31,previously_truncated_LSH
+CEAS_08,38328,CEAS_08,37610,ND_034400,ND_037428,train,train,False,0.8776,98.58,previously_truncated_LSH
+CEAS_08,39088,CEAS_08,39086,ND_034400,ND_034534,train,train,False,0.8155,95.74,previously_truncated_LSH
+Enron,22537,SpamAssasin,4357,ND_061189,ND_075602,test,train,False,1.0,99.1,short_text_check
