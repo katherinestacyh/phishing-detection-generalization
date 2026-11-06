@@ -1,0 +1,12 @@
+metric,value
+original_master_emails,77589
+train_v2_rows,54381
+train_label_checked_v2_rows,54379
+validation_original_rows,12056
+validation_v2_rows,12019
+validation_quarantined,37
+test_original_rows,11152
+test_v2_rows,11151
+test_quarantined,1
+remaining_cross_split_v2_families,0
+total_quarantined_from_evaluation,38
