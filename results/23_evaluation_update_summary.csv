@@ -1,0 +1,7 @@
+item,value
+training_emails,54379
+validation_emails,12019
+reserved_test_emails_not_evaluated,11151
+loso_pool_emails,66398
+bootstrap_replicates_per_fold_and_model,300
+source_count,4
