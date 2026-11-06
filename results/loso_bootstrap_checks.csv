@@ -1,0 +1,9 @@
+held_out_source,model,emails,duplicate_families,requested_bootstraps,valid_bootstraps,skipped_bootstraps,resampling_unit
+CEAS_08,Logistic Regression,33862,27093,300,300,0,leakage_group_id
+CEAS_08,Linear SVM,33862,27093,300,300,0,leakage_group_id
+Enron,Logistic Regression,25199,23252,300,300,0,leakage_group_id
+Enron,Linear SVM,25199,23252,300,300,0,leakage_group_id
+Ling,Logistic Regression,2433,2319,300,300,0,leakage_group_id
+Ling,Linear SVM,2433,2319,300,300,0,leakage_group_id
+SpamAssasin,Logistic Regression,4941,4597,300,300,0,leakage_group_id
+SpamAssasin,Linear SVM,4941,4597,300,300,0,leakage_group_id
