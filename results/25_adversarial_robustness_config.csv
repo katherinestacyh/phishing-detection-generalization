@@ -1,0 +1,12 @@
+setting,value
+training_file,controlled_train_label_checked_v2.csv
+validation_file,controlled_validation_v2.csv
+reserved_test_evaluated,False
+models,"Logistic Regression, Linear SVM"
+tfidf_features,30000
+tfidf_min_df,3
+tfidf_ngram_range,"(1, 2)"
+tfidf_sublinear_tf,True
+random_seed,42
+perturbations,"case_change, keyword_obfuscation, zero_width_words"
+experimental_limitations,Fixed label-preserving text edits; no adaptive attacker or external test
